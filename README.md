@@ -1,5 +1,5 @@
 # sena
-<h1> Criar um programa sobre a MEGASENA com as seguintes funçõe<h1><br/>
+<h2> Criar um programa sobre a MEGASENA com as seguintes funçõe<h2>
 <h3> 1) Gerar 3000 sorteios realmente aleatórios, em uma matriz, cada um com 6 números únicos <em>(01 a 60)</em><h3><br/>
 <p> a) Exibir os números por ordem do sorteio.</p><br/>
 <p> b) Exibir os números por ordem crescente.</p><br>
@@ -25,7 +25,7 @@
 <p> a) Capturar o nome do apostador.</p><br/>
 <p> b) Capturar 6 números para o sorteio <em>(validar os números escolhidos, de 01 a 60).</em></p><br/>
 
-<h2> 4) Após as jogadas dos 3 usuários, indicar qual o máximo de números cada usuário acertou, com base nos 3000 sorteios anteriores, e indicar qual o seu melhor resultado, ou seja, em qual sorteio o jogador acertou mais números <em>(informar também a quantidade).</em><h2><br/>
+<h3> 4) Após as jogadas dos 3 usuários, indicar qual o máximo de números cada usuário acertou, com base nos 3000 sorteios anteriores, e indicar qual o seu melhor resultado, ou seja, em qual sorteio o jogador acertou mais números <em>(informar também a quantidade).</em><h3><br/>
 
 <p> <strong>Exemplo:</strong> </p><br/>
 <p>Parabéns <em>nome do apostador</em>, no sorteio <em>número do sorteio</em> você acertou <em>quantidade de números números! </em></p><br/>
