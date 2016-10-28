@@ -3,7 +3,7 @@
 <h3> 1) Gerar 3000 sorteios realmente aleatórios, em uma matriz, cada um com 6 números únicos <em>(01 a 60)</em><h3>
 <p> a) Exibir os números por ordem do sorteio.</p><br/>
 <p> b) Exibir os números por ordem crescente.</p><br>
-<p><strong>Por exemplo:</strong> <em>[Sorteio 0001] = 45 – 22 – 04 – 33 - 47 – 15 (04 – 15 – 22 – 33 – 45 – 47)</em></p><br/>
+<p><strong>Por exemplo:</strong> [Sorteio 0001] = 45 – 22 – 04 – 33 - 47 – 15 (04 – 15 – 22 – 33 – 45 – 47)</p><br/>
 <h3>2) Gerar uma lista de estatística com os seguintes dados<h3><br/>
 <p> a) Quantidade de vezes que cada número saiu nos sorteios <em>(Ordem crescente).</em></p><br/>
 <p><strong> Por exemplo:</strong> Numero 05 = 290 vezes.</p><br/>
