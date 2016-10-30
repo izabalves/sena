@@ -1,6 +1,6 @@
 /helloword/nbproject/private/
 /helloword/build/
-build/classes
-nbproject
-build.xml
-manifest.mf
+/build/classes
+/nbproject
+/build.xml
+/manifest.mf
