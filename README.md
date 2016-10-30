@@ -39,9 +39,9 @@ Por exemplo:
 * Até o Nº 60
 
 ---
-
 ### 3. Simular uma jogada para 3 usuários diferentes, com os seguintes dados
 a. Capturar o nome do apostador
+
 b. Capturar 6 números para o sorteio (validar os números escolhidos, de 01 a 60)
 
 ### 4. Após as jogadas dos 3 usuários, indicar qual o máximo de números cada usuário acertou, com base nos 3000 sorteios anteriores, e indicar qual o seu melhor resultado, ou seja, em qual sorteio o jogador acertou mais números (informar também a quantidade)
