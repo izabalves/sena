@@ -8,7 +8,8 @@ b. Exibir os números por ordem crescente.
 
 Por exemplo:
 ```javascript
-[Sorteio 0001] = 45, 22, 04, 33, 47, 15 (04, 15, 22, 33, 45, 47)
+[Sorteio 0001] = 45, 22, 04, 33, 47, 15
+[Sorteio 0001] = 04, 15, 22, 33, 45, 47
 ```
 ---
 
