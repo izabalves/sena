@@ -51,5 +51,5 @@ Exemplo:
 
 ```javascript
 Parabéns (nome do apostador), no sorteio (número do sorteio) você acertou (quantidade de números números!)
-Substitua os valore indicados pelas variáveis correspondentes.
+Substitua os <em>valore</em>indicados pelas variáveis correspondentes.
 ```
